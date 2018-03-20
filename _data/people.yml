@@ -500,3 +500,15 @@
     - hpc 
     - research computing
     - cyberinfrastructure
+    
+- first_name: Ben
+  last_name: Weinstein
+  institution: University of Florida
+  email: ben.weinstein@weecology.org
+  github: bw4sz
+  orcid: 0000-0002-2176-7935
+  tags:
+    - Ecology
+    - Remote Sensing
+    - Computer Vision 
+    - Deep Learning
